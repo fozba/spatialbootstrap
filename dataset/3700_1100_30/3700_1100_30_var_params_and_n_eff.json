@@ -1,0 +1,16 @@
+{
+  "nug": 0.25,
+  "nst": 1,
+  "it1": 1,
+  "cc1": 1,
+  "azi1": 90,
+  "hmaj1": 3500,
+  "hmin1": 1500,
+  "it2": 1,
+  "cc2": 0,
+  "azi2": 0,
+  "hmaj2": 0,
+  "hmin2": 0,
+  "n_eff_calculated": 34,
+  "n_standard": 1000
+}
